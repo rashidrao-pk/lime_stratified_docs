@@ -4,4 +4,4 @@ API
 .. autosummary::
    :toctree: generated
 
-   lumache
+   LIME_Stratified

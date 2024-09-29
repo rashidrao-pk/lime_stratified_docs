@@ -1,8 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to LIME_Stratified's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
+**LIME_Stratified** is a Python library for creating image expalantion to explain the output of computer vision models.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
